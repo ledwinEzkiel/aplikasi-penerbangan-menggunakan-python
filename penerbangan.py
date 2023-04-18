@@ -1,5 +1,4 @@
 while True:
-
     import os
     so = os.name
     match so:

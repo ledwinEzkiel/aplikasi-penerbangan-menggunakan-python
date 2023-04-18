@@ -1,0 +1,1 @@
+ini hanya program aplikasi penerbangan menggunakan python. Mungkin nanti ada yang butuh
